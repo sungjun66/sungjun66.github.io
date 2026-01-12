@@ -4,6 +4,7 @@
   title: "LPV-MPC for Lateral Stability Enhancement of Four-wheel Steering Vehicles With Real-time Embedded PiLS Validation"
   # github: https://github.com/sungjun/repo
   paper_link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12485779&width=2560
+  abstract: https://sungjun66.github.io/researchpaper/
   authors: Sung-Jun Park, Kwang-Ki K. Kim*
 - year: 2025-11
   conference: ICCAS (Conference)
@@ -11,6 +12,7 @@
   title: "PiLS of Embedded Hybrid MPC for Fighter Aircraft Attack Angle Control Using QP-based Approximation of MINLP"
   # github: https://github.com/sungjun/repo
   paper_link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12540919&width=2560
+  abstract: https://sungjun66.github.io/researchpaper1/
   authors: Ji-Won Kim, Sung-Jun Park, Kwang-Ki K. Kim*
 - year: 2025-06
   conference: ICROS (Conference)
